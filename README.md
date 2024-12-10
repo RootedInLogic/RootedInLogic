@@ -1,6 +1,7 @@
+Work in progress
+<!--
 ## Hi there 👋
 
-<!--
 **RootedInLogic/RootedInLogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://www.webfx.com/tools/emoji-cheat-sheet/
+https://www.reddit.com/r/github/comments/uulygm/what_are_some_really_nice_github_profile_readmes/
+https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#github-actions-
+https://github.com/anuraghazra/github-readme-stats
+
+https://www.markdownguide.org/cheat-sheet/
+
+
 -->
